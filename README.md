@@ -1,1 +1,3 @@
 # The-Landing-Page
+
+In this project, I will be making a landing page that will test and demonstrate my skills that I learned in the foundation course of TOP. These skills include HTML, CSS, and Flexbox. The landing page with this design presents a set of challenges for a new web developer, but is not particularly hard to create thanks to Odin Project's structural approach regarding the fundamental skils. 
